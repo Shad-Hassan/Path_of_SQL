@@ -14,6 +14,7 @@ call this function to select a database from your local directory
 ## create table 
 - create table pakhi (
 never forgetti to use white space spaghetti after table
+-studnet_id INT,
 - name VARCHAR(20),
 - major VARCHAR(20),
 - major VARCHAR(20),
