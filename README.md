@@ -25,7 +25,7 @@ never forgetti to use white space spaghetti after table
 - show tables;
 
 ## describe table
-- describe [table name]
+- describe [table name];
 
 ## Add a new column
 - alter table [table name] gpa decimal(3.2);
@@ -36,5 +36,15 @@ never forgetti to use white space spaghetti after table
 - drop table [table name]
  
  this deletes the table name , called after the drop table syntax
+
+  ## Insert new data into table 
+ - insert into [Table Name] value [{object}]
+
+   ## Full table view
+   - select *
+   -  fromt [Table Name];
+  
+   ## insert an object into the table
+   - insert into [Table Name] values (69,'Jorina','Pharmacy',3.69);
  
 
