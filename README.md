@@ -1,6 +1,15 @@
 
 # Path To SQL 
 
+A methodological approach to working with SQL database with my hombre @sunmuny17
+```bash
+https://github.com/sunmuny17
+```
+```bash
+https://github.com/Shad-Hassan
+```
+
+
 ## Create a database
 - create database [database name]
 
