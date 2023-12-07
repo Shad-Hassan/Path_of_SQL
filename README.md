@@ -14,6 +14,10 @@
 ## Selecting a database
 - select database()
 call this function to select a database from your local directory
+```bash
+  select database()    
+```
+
 
 ## create table 
 - create table pakhi (
