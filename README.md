@@ -24,7 +24,7 @@ https://github.com/Shad-Hassan
 - select database()
 call this function to select a database from your local directory
 ```bash
-  select database()    
+  select database();    
 ```
 
 
@@ -40,6 +40,9 @@ never forgetti to use white space spaghetti after table
 
 ## show table
 - show tables;
+  ```bash
+  show tables;    
+```
 
 ## describe table
 - describe [table name];
