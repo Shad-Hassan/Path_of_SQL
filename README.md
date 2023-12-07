@@ -40,7 +40,8 @@ never forgetti to use white space spaghetti after table
 
 ## show table
 - show tables;
-  ```bash
+
+```bash
   show tables;    
 ```
 
