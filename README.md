@@ -7,6 +7,10 @@
 ## Use a database
 - use [database Name]
 
+```bash
+  use sunny    
+```
+
 ## Selecting a database
 - select database()
 call this function to select a database from your local directory
